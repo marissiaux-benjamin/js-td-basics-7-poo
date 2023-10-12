@@ -10,7 +10,7 @@ Un compte bancaire sera modélisé par une classe définie comme suit :
 
 Ecrivez un programme qui crée 3 comptes bancaires,
   - l'un appartenant à Alex,
-  - le deuxième à CLovis
+  - le deuxième à Clovis
   - et le troisième à Marco.
 Stockez ces comptes dans un tableau.
 
