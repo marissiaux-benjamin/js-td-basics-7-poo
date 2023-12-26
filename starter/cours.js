@@ -1,4 +1,4 @@
-// A. RAPPEL : LES OBJETS
+ // A. RAPPEL : LES OBJETS
 
 // Modélisation de Tobby
 const dominique = {
