@@ -37,5 +37,9 @@ console.log(Kiki.decrire());
 
 // 4. Les chiens rencontrent un chat...
 // Affiche le message dans la console avec les aboiements de chaque chien
-document.querySelector('h1').insertAdjacentHTML('afterend',`<i>Tiens, un chat ! ${Vanille.nom} aboie: ${Vanille.aboyer()}</i>`);
-document.querySelector('h1').insertAdjacentHTML('afterend',`<b>Tiens, un chat ! ${Kiki.nom} aboie: ${Kiki.aboyer()}</b>`);
+document.querySelector('h1').insertAdjacentHTML('afterend',`<i>
+                                                                                    Tiens, un chat ! ${Vanille.nom} aboie: ${Vanille.aboyer()}
+                                                                                  </i><br>
+                                                                                  <b>
+                                                                                    Tiens, un chat ! ${Kiki.nom} aboie: ${Kiki.aboyer()}
+                                                                                  </b>`);
